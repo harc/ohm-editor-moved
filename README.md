@@ -1,2 +1,3 @@
 # ohm-editor-moved
-This repository has moved to https://github.com/ohmjs/ohm-editor
+
+The harc/ohm-editor repo has moved to https://github.com/ohmjs/ohm-editor.
